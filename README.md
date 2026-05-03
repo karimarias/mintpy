@@ -446,7 +446,3 @@ Sentinel-1 burst coverage can vary by 1 row across acquisitions with different p
 | Pairs `already_exists` skipped | Previous run left partial outputs | Delete the pair directory and rerun |
 
 ---
-
-## License
-
-MIT License — see `LICENSE` for details.
